@@ -1,0 +1,14 @@
+venv
+
+
+*ignore all __pycache__ folders, .idea, .vscode, .pytest_cache, .mypy_cache, .tox, .coverage, .DS_Store
+__pycache__/
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.tox/
+.coverage/
+.DS_Store
+
+
